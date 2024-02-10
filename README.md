@@ -179,8 +179,8 @@
 </hr>
 
 &nbsp;&nbsp;
-[![website](./img/twitterx-dark.svg)](https://twitter.com/akashyerra29#gh-dark-mode-only)
-[![website](./img/twitterx-light.svg)](https://twitter.com/akashyerra29#gh-light-mode-only)
+[![website](./img/twitterx-light.svg)](https://twitter.com/akashyerra29#gh-dark-mode-only)
+[![website](./img/twitterx-dark.svg)](https://twitter.com/akashyerra29#gh-light-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/akashyerra#gh-dark-mode-only)
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/akashyerra#gh-light-mode-only)
@@ -188,8 +188,8 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/akash.yerra#gh-dark-mode-only)
 [![website](./img/instagram-light.svg)](https://www.instagram.com/akash.yerra#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/gmail-dark.svg)](mailto:akashyerra@gmail.com#gh-dark-mode-only)
-[![website](./img/gmail-light.svg)](mailto:akashyerra@gmail.com#gh-light-mode-only)
+[![website](./img/gmail-light.svg)](mailto:akashyerra@gmail.com#gh-dark-mode-only)
+[![website](./img/gmail-dark.svg)](mailto:akashyerra@gmail.com#gh-light-mode-only)
 &nbsp;&nbsp;
 [![website](./img/github-dark.svg)](https://github.com/akashyerra#gh-dark-mode-only)
 [![website](./img/github-light.svg)](https://github.com/akashyerra#gh-light-mode-only)
